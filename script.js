@@ -189,13 +189,13 @@ const musicas = [
 titulo: "Velha Infância",
 artista: "Tribalistas",
 arquivo: "musica1.mp3",
-capa: "/musica1.jpeg"
+capa: "musica1.jpeg"
 },
 {
 titulo: "Thinking out Lound",
 artista: "Ed Sheeran",
 arquivo: "musica2.mp3",
-capa: "/musica2.jpeg"
+capa: "musica2.jpeg"
 }
 ];
 
